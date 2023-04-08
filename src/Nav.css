@@ -1,0 +1,65 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  background-image: linear-gradient(
+    360deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
+  padding: 20px;
+  height: 30px;
+  z-index: 1;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+  z-index: 1000;
+}
+.nav__options {
+  display: flex;
+  color: black;
+  margin-left: 100px;
+}
+button {
+  padding-top: 5px;
+  color: #eee;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  font-size: medium;
+  border-radius: 0.3vw;
+  padding-left: 0.5rem;
+  padding-right: 2rem;
+  margin-right: 1rem;
+  background-color: rgba(104, 104, 104, 0);
+  transition: all 450ms;
+  z-index: 5;
+}
+.nav__bell {
+  filter: invert(100%);
+  position: fixed;
+  left: 20;
+  padding-top: 5px;
+  object-fit: contain;
+  width: 30px;
+}
+.nav__black {
+  background-color: #111;
+}
+.nav__logo {
+  position: fixed;
+  left: 20;
+  padding-top: 5px;
+  object-fit: contain;
+  width: 80px;
+}
+.nav__avatar {
+  padding-top: 5px;
+
+  position: fixed;
+  right: 20px;
+  width: 30px;
+  object-fit: contain;
+}
