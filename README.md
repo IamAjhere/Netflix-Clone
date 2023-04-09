@@ -31,13 +31,13 @@ This project is a simplified version of a Netflix Clone, where you can view a li
 1.  Clone the repository:
     
     ```
-    git clone https://github.com/yourusername/netflix-clone.git
+    git clone https://github.com/IamAjhere/Netflix-Clone.git
     ``` 
     
 2.  Change to the project directory:
     
     ```
-    cd netflix-clone
+    cd Netflix-Clonw
     ``` 
     
 3.  Install the dependencies:
