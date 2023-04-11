@@ -6,11 +6,11 @@ This project is a simplified version of a Netflix Clone, where you can view a li
 
 ## Table of Contents
 
--   [Features](https://chat.openai.com/chat?model=gpt-4#features)
--   [Prerequisites](https://chat.openai.com/chat?model=gpt-4#prerequisites)
--   [Installation](https://chat.openai.com/chat?model=gpt-4#installation)
--   [Usage](https://chat.openai.com/chat?model=gpt-4#usage)
--   [Acknowledgements](https://chat.openai.com/chat?model=gpt-4#acknowledgements)
+-   [Features](#features)
+-   [Prerequisites](#prerequisites)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Acknowledgements](#acknowledgements)
 
 ## Features
 
